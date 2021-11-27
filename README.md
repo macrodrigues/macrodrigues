@@ -20,10 +20,9 @@
 <img align="left" alt="GCP" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Google-cloud-platform-v2.svg/256px-Google-cloud-platform-v2.svg.png" />
 <img align="left" alt="Streamlit" width="80px" src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" />
 <img align="left" alt="Docker" width="40px" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/vertical-logo-monochromatic.png?itok=erja9lKc" />
-<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <br/>
 <br/>
+
 
 
 ## 📊 My Github Stats
@@ -52,7 +51,7 @@
 ### :memo: Summary
 -- ![GitHub last commit](https://img.shields.io/github/last-commit/macrodrigues/macrodrigues)
 --![pv](https://pageview.vercel.app/?github_user=macrodrigues)
-
+-->
 
 
 

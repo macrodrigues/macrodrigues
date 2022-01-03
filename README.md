@@ -1,6 +1,6 @@
 ## :raising_hand_man: Hey! It's Marco here!
 
-- 🎓 **Data Science** student at Le Wagon. 
+- 🎓 **Data Scientist** graduted from Le Wagon. 
 - 🌱 Improving my Python skills, learning advanced statistics, Machine Learning, Deep Learning and Data Engineering.
 - 👯 Willing to collaborate in all sort of Data Science, Machine Learning/Deep Learning, Data Analysis and Blockchain/Cryptocurrencies projects.
 - 💬 Languages: :portugal: 🇬🇧 🇫🇷 🇪🇸

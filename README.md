@@ -20,7 +20,6 @@
 <img align="left" alt="Pycharm" width="30px" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/217d5ea0-623d-40b1-9b31-027b904a5f15/dccudp7-3a29ffd5-4e85-4123-88cc-4e948bedd7c1.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzIxN2Q1ZWEwLTYyM2QtNDBiMS05YjMxLTAyN2I5MDRhNWYxNVwvZGNjdWRwNy0zYTI5ZmZkNS00ZTg1LTQxMjMtODhjYy00ZTk0OGJlZGQ3YzEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.wpzGIRxZl5Bkm9eP-D5PSjmUxTtkd6v3IQySnkZdbMQ"/>
 <img align="left" alt="GCP" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Google-cloud-platform-v2.svg/256px-Google-cloud-platform-v2.svg.png" />
 <img align="left" alt="Streamlit" width="70px" src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" />
-<img align="left" alt="Docker" width="30px" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/vertical-logo-monochromatic.png?itok=erja9lKc" />
 <br/>
 <br/>
 

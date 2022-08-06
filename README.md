@@ -1,5 +1,5 @@
 ## :raising_hand_man: Hey! It's Marco here!
-- 👷 Working as a Software Engineer in French Guyana.
+- 👷 Working as a Software Engineer in French Guiana.
 - 🎓 **Data Scientist** graduted from Le Wagon. 
 - 🌱 Improving my Python skills, learning advanced statistics, Machine Learning, Deep Learning and Data Engineering.
 - 👯 Willing to collaborate in all sort of Data Science, Machine Learning/Deep Learning, Data Analysis and Blockchain/Cryptocurrencies projects.

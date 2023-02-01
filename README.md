@@ -7,6 +7,11 @@
 - 📑 Previously worked as a **Product Engineer** and **Failure Analysis Engineer**.
 
 
+ [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Get+to+know+more+about+me+on...;www.macrodrigues.xyz)](https://git.io/typing-svg)
+
+
+
+
 ## Programming Languages and Tools:
 
 <img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />

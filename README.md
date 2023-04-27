@@ -1,5 +1,5 @@
 ## :raising_hand_man: Hey! It's Marco here!
-- 👷 Working as a Software Engineer at the European Spaceport in French Guiana.
+- 👷 Lately worked as a Software Engineer at the European Spaceport in French Guiana.
 - 🎓 **Data Scientist** graduted from Le Wagon. 
 - 🌱 Improving my Python skills, learning advanced statistics, Machine Learning, Deep Learning, Data Engineering and Web Development using Flask and Django.
 - 👯 Willing to collaborate in projects related to Microelectronics, Blockchain and web3, space imaging, agriculture, finance, retail and many other fields.

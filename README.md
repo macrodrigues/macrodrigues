@@ -37,17 +37,6 @@
   <a href="https://github.com/macrodrigues/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=macrodrigues&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br/>
 
-<br/>
-<br/>
-
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=macrodrigues&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br/>
-<br/>
-<br/>
-<br/>
-
 <!--
 ### :memo: Summary
 -- ![GitHub last commit](https://img.shields.io/github/last-commit/macrodrigues/macrodrigues)

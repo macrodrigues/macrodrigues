@@ -41,12 +41,7 @@
 <br/>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=macrodrigues&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## :globe_with_meridians: Find me here:
-
-<a href = "https://www.linkedin.com/in/marco-rodrigues-74759b8a/"><img src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" align="left" width="40px"/></a>
-<a href = "https://peakd.com/@macrodrigues"><img src="https://files.peakd.com/file/peakd-hive/jarvie-dev/FFpyGCBj-image.png" align="left" width="40px"/></a>
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=macrodrigues&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 <br/>
